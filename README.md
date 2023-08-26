@@ -4,7 +4,6 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/edududuribeiro/">MayconRomer 😃️</a>
   </h1>
-
   
   <p align="center">
     Seja um visionário! Assim como a águia, mire o topo e supere suas limitações para alcançar seu objetivo. 😉️
